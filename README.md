@@ -8,4 +8,10 @@
 * BROUWERS (0.1) 
 * ODWNRBN (0,1)
 * These are not final versions as namespaces still need to be defined
+*
+
+# Scripts:
+* xml2lod_flat: script to convert general lexical data (including concept classes, but not concept hierarchies) to rdf triples
+* odwnrbn2lod: script to convert wordNet-LMF(XML) to rdf triples
+
 
