@@ -7,7 +7,7 @@
 * embodied emotions lexicon (0.1)
 * brouwers thesaurus (0.1) 
 * odwnrbn Dutch (0,1)
-These are not final versions as namespaces still need to be defined
+* These are not final versions as namespaces still need to be defined
 
 
 # Scripts:
