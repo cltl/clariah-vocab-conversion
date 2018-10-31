@@ -16,7 +16,7 @@
 * xml2lod_flat: script to convert general lexical data (including concept classes, but not concept hierarchies) to rdf triples
 * odwnrbn2lod: script to convert wordNet-LMF(XML) to rdf triples
 
-#Contact:
+# Contact:
 * Isa Maks VU university Amsterdam, Fac. of Humanities, Computational Lexicology and Terminology Lab (CLTL)
   isa.maks@vu.nl
 
